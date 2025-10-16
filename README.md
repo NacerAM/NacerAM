@@ -61,8 +61,8 @@ Aujourd’hui, je développe mes compétences en Power BI et Python pour aider l
 ## 📫 Contact
 
 📧 **Email :** amrarnacer1@gmail.com  
-🔗 **LinkedIn :** [linkedin.com/in/tonprofil](#)  
-💻 **Portfolio GitHub :** [github.com/tonprofil](#)
+🔗 **LinkedIn :** [www.linkedin.com/in/nacer-amrar-86119a239](#)  
+💻 **Portfolio GitHub :** [https://github.com/NacerAM](#)
 
 ---
 
